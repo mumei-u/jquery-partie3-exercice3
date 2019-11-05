@@ -1,0 +1,23 @@
+body>div{
+  background-color: #1f3c6b;
+  border-radius: 20px;
+  border: 5px solid blue;
+}
+
+form{
+  height: 120px;
+}
+
+span{
+  color: white;
+  font-size: 2rem;
+}
+
+.form-control{
+  width: 100px;
+}
+
+.btn{
+  width: 140px;
+  font-size: 1rem;
+}
